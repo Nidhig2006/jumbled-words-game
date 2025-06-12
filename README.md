@@ -65,10 +65,11 @@
     const db = firebase.database();
 
     const words = [
-      "apple", "banana", "orange", "grape", "lemon",
-      "mango", "peach", "cherry", "strawberry", "melon",
-      "papaya", "kiwi", "plum", "pear", "fig"
-    ];
+  "bengaluru", "mysuru", "hampi", "badami", "bijapur",
+  "shivamogga", "udupi", "mangaluru", "chikkamagaluru", "coorg",
+  "belur", "halebidu", "gokarna", "dandeli", "tumakuru"
+];
+
 
     let score = 0;
     let currentIndex = 0;
